@@ -241,7 +241,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     }
 
 
-//////////////Content Provider user///////END///////////
+//////////////Content Provider user///////END//////////////////////////
 
 
     @Override
